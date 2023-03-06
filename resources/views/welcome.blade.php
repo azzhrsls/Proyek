@@ -104,23 +104,38 @@
         <!-- Feature Tabs -->
         <div class="row feture-tabs" data-aos="fade-up">
             <div class="col-lg-6">
-            <h3>Deskripsi</h3>
+            <header class="section-header">
+                <p>DESK</p>
+            </header>
+
 
             <!-- Tab Content -->
             <div class="tab-content">
 
                 <div class="tab-pane fade show active" id="tab1">
-                <p>Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
                 <div class="d-flex align-items-center mb-2">
                     <i class="bi bi-check2"></i>
-                    <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
+                    <h4>TUJUAN</h4>
                 </div>
-                <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
+                <p>1.	Perkumpulan Pendidik Teknik Mesin dan Fabrikasi Logam Indonesia atau dalam bahasa Inggris diberikan nama Indonesian Manufacture and Fabrication Educators Association (IMFEA) bergerak di bidang Pendidikan Vokasi dan Kegiatan Sosial.</p>
+                <P>2.	Menghimpun dan memberdayakan potensi sumber daya manusia para pendidik di bidang teknik mesin dan fabrikasi logam termasuk Guru, Instruktur dan Dosen guna menunjang program pemerintah dalam upaya  melaksanakan program Pendidikan Vokasi untuk menjadikan Indonesia yang maju dan berdaya saing global.</P>
+                <p>3.	Sebagai wadah utama komunikasi bagi para pendidik teknik mesin dan fabrikasi logam untuk bersama-sama membicarakan dan memecahkan masalah-masalah yang dihadapi anggota, memperjuangkan kepentingan-kepentingan anggotanya kepada pemerintah dan pihak-pihak lain dengan menerapkan asas “Solidarity Forever”.</p>
+                <p>4.	Mempersatukan, membina, memperjuangkan serta memberikan layanan kepada anggota dalam pengembangan karir dalam dunia Pendidikan Vokasi.</p>
+                <p>5.	Meningkatkan kerjasama, pertukaran informasi, dan menumbuhkan sikap saling berjejaring di antara para anggota maupun dengan Pemerintah atau pihak lainnya, sehingga tercipta hubungan yang baik dan harmonis.</p>
+                <p>6.	Mengembangkan dan memajukan peranan perkumpulan sebagai salah satu alternatif stakeholder pemerintah untuk memberikan sumbangsih bagi kemajuan dunia Pendidikan Vokasi di bidang teknik mesin dan fabrikasi logam.</p>
+                <p>7.	Memberikan pendapat dan saran kepada Pemerintah/Instansi/Badan yang terkait, dalam rangka pengembangan sumber daya manusia di lingkungan Pendidikan Vokasi  di Indonesia serta memperjuangkan kepentingan bersama para anggotanya.</p>
                 <div class="d-flex align-items-center mb-2">
                     <i class="bi bi-check2"></i>
-                    <h4>Incidunt non veritatis illum ea ut nisi</h4>
+                    <h4>FUNGSI</h4>
                 </div>
-                <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
+                <p>1.	Menjadikan Perkumpulan sebagai wadah utama untuk bertukar pikiran dan informasi, mengumpulkan, mengadakan penelitian atau mengolah data serta informasi yang berhubungan dengan masalah-masalah pendidikan vokasi yang terjadi di dalam bidang teknik mesin dan fabrikasi logam.</p>
+                <p>2.	Menampung serta membahas masalah-masalah yang dihadapi para anggota dalam pelaksanaan kegiatan-kegiatan pendidikan vokasi dan bilamana perlu menyampaikan pendapatnya kepada instansi Pemerintah baik ditingkat daerah maupun pusat dan atau lembaga-lembaga lain yang berwenang.</p>
+                <p>3.	Memberikan penerangan, saran, pendidikan, latihan dan bimbingan serta layanan kepada para anggota, guna meningkatkan kemampuan dan ketrampilan para anggota untuk menjamin terlaksananya proses pembelajaran yang berkualitas di dunia Pendidikan Vokasi terutama di bidang teknik mesin dan fabrikasi logam.</p>
+                <p>4.	Membentuk komite-komite kerja diberbagai bidang yang dianggap baik dalam rangka melancarkan kegiatan dan usaha anggota untuk memajukan pendidikan vokasi di Indonesia.</p>
+                <p>5.	Menggalang kerjasama dan hubungan baik dengan Instansi-instansi / Badan-badan / Lembaga-lembaga Pemerintah dan Swasta maupun Industri baik di dalam maupun luar negeri sepanjang tidak bertentangan dengan asas dan tujuan Perkumpulan, serta dengan cara yang tidak bertentangan dengan perundang-undangan yag berlaku.</p>
+                <p>6.	Mengadakan usaha-usaha yang koperatif untuk melayani kebutuhan anggota serta usaha-usaha lain yang sah dan bermanfaat sepanjang tidak bertentangan dengan anggaran dasar dan anggaran rumah tangga perkumpulan.</p>
+                <p>7.	Mewujudkan para pendidik teknik mesin dan fabrikasi logam yang mandiri, komunikatif, berjejaring, berdaya saing dan mampu mencetak lulusan yang berkualitas sesuai dengan kebutuhan dunia kerja.</p>
+                <p>8.	Melakukan usaha-usaha lainnya sepanjang tidak bertentangan dengan asas dan tujuan Perkumpulan.</p>
                 </div><!-- End Tab 1 Content -->
 
                 <div class="tab-pane fade show" id="tab2">
@@ -154,10 +169,10 @@
             </div>
 
             </div>
-
             <div class="col-lg-6">
             <img src="assets/img/features-2.png" class="img-fluid" alt="">
-            </div>
+            <img src="assets/img/mesin.webp" class="img-fluid" alt="">            
+        </div>
 
         </div><!-- End Feature Tabs -->
 

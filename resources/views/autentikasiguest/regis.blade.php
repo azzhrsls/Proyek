@@ -35,15 +35,35 @@
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="account-thumb">
                                     <h2>Register now</h2>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consectetur similique deleniti pariatur enim cumque eum</p>
+                                    <p>To see more complete training and facilities immediately register to be part of Indonesian Manufacture and Fabrication Educators Association (IMEFA)</p>
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="account-content">
                                     <form action="#">
                                         <div class="single-acc-field">
+                                            <label for="name">No ID</label>
+                                            <input type="text" id="name" placeholder="Enter Your ID KTP">
+                                        </div>
+                                        <div class="single-acc-field">
                                             <label for="name">Name</label>
                                             <input type="text" id="name" placeholder="Enter Your Name">
+                                        </div>
+                                        <div class="single-acc-field">
+                                            <label for="name">Date Of Birth</label>
+                                            <input type="date" id="date" placeholder="Enter Your Birth Day">
+                                        </div>
+                                        <div class="single-acc-field">
+                                            <label for="name">Address</label>
+                                            <input type="address" id="address" placeholder="Enter Your Address">
+                                        </div>
+                                        <div class="single-acc-field">
+                                            <label for="name">Instansi</label>
+                                            <input type="text" id="name" placeholder="Enter Your Instansi">
+                                        </div>
+                                        <div class="single-acc-field">
+                                            <label for="name">Job</label>
+                                            <input type="text" id="name" placeholder="Enter Your Job">
                                         </div>
                                         <div class="single-acc-field">
                                             <label for="email">Email</label>
@@ -55,7 +75,7 @@
                                         </div>
                                         <div class="single-acc-field boxes">
                                             <input type="checkbox" id="checkbox">
-                                            <label for="checkbox">I'm not a robot</label>
+                                            <label for="checkbox">Are you serious about registering to become a member</label>
                                         </div>
                                         <div class="single-acc-field">
                                             <button type="submit">Register now</button>
