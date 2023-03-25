@@ -34,7 +34,7 @@
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="account-thumb">
                                     <h2>Login now</h2>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consectetur similique deleniti pariatur enim cumque eum</p>
+                                    <p>login to follow all activities in IMFEA</p>
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
@@ -42,11 +42,11 @@
                                     <form action="#">
                                         <div class="single-acc-field">
                                             <label for="email">Email</label>
-                                            <input type="email" id="email" placeholder="Enter your Email">
+                                            <input type="email" id="email">
                                         </div>
                                         <div class="single-acc-field">
                                             <label for="password">Password</label>
-                                            <input type="password" id="password" placeholder="Enter your password">
+                                            <input type="password" id="password">
                                         </div>
                                         <div class="single-acc-field boxes">
                                             <input type="checkbox" id="checkbox">

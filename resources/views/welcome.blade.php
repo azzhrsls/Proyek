@@ -10,7 +10,7 @@
 
     <meta content="" name="keywords">
 
-    @include('layouts.landing-page.stylesheet');
+    @include('layouts.landing-page.stylesheet')
 
 
 </head>
@@ -25,7 +25,7 @@
         <img src="assets/img/logo.png" alt="">
         <span>IMFEA </span>
         </a>
-        @include('layouts.landing-page.navbar');
+        @include('layouts.landing-page.navbar')
 
     </div>
     </header><!-- End Header -->
@@ -304,9 +304,9 @@
         
     <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
-    @include('layouts.landing-page.footer');
+    @include('layouts.landing-page.footer')
 
-    @include('layouts.landing-page.javascript');
+    @include('layouts.landing-page.javascript')
 
 </body>
 

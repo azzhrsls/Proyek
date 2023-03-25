@@ -13,7 +13,6 @@
     
     <!-- CSS 
     ========================= -->
-   
 
     <!-- Plugins CSS -->
     <link rel="stylesheet" href="assets2/css/plugins.css">
